@@ -1,11 +1,11 @@
-# BFS OS — 미션 6 MVP + 미션 8 고도화 (프론트엔드)
+# BFS OS — 스프린트 미션 8 고도화 (프론트엔드)
 
 스프린트 미션 5의 정적 랜딩([bfs-landing-sprint-mission5](https://github.com/rockid8choie-ai/bfs-landing-sprint-mission5))을
 **React 기반의 동작하는 MVP**로 전환하고(미션 6),
 미션 8에서 **실제 유저 기능(JWT 인증) + OpenAI 민원 자동 분류**로 고도화한 프로젝트입니다.
 빌딩 시설 운영 서비스 **BFS OS**의 핵심 흐름: 민원 접수 → 목록 조회 → 상세/상태 변경 → 완료.
 
-- 배포: https://bfs-mission6.vercel.app
+- 배포: https://bfs-mission8.vercel.app
 - 백엔드(미션 7 서버 확장): [backend-route](https://github.com/rockid8choie-ai/backend-route) · https://backend-route.vercel.app
 
 ## 미션 8 고도화 — 무엇을, 왜

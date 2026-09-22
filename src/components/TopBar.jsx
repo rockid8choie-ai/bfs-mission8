@@ -9,7 +9,7 @@ export default function TopBar({ session, onLogout }) {
       <div className="container topbar-inner">
         <Link to="/" className="brand" aria-label="BFS OS 홈">
           <img src="/bfs-wordmark.png" alt="BFS" />
-          <span className="brand-badge">OS · 미션 6</span>
+          <span className="brand-badge">OS · 미션 8</span>
         </Link>
         <div className="topbar-spacer" />
         {session ? (
