@@ -7,6 +7,7 @@
 
 - 배포: https://bfs-mission8.vercel.app
 - 백엔드(미션 7 서버 확장): [backend-route](https://github.com/rockid8choie-ai/backend-route) · https://backend-route.vercel.app
+- 📐 **[고도화 기능 설계 및 흐름 정의 → DESIGN.md](./DESIGN.md)** — 기능별 위치·언제/입력/결과·시나리오·흐름도
 
 ## 미션 8 고도화 — 무엇을, 왜
 
